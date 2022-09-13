@@ -5,7 +5,7 @@ const personaMovieDB = {
     movies: {},
     actors: {},
     genres: [],
-    privat: false
+    privatt: false
 };
 
 let counter = 0;
